@@ -1,9 +1,4 @@
-/*
-    Name: Ryan Tang
-    ID: 38859342
-    Partner Name: Suraj Sajos
-    Partner ID: 89963984
-*/
+
 
 #ifndef RENTER_H_
 #define RENTER_H_
